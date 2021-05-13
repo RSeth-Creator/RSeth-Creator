@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSeth-Creator (Raj Kumar Seth)
 - 🌱 I’m currently learning data science and analytics
-- 💞️ I’m looking to collaborate on any ongoing research on data science/ analytics field
+- 💞️ I’m looking to collaborate on any ongoing research/Internship on data science/ analytics field
 - 📫 How to reach me rajseth2018@gmail.com
 
 <!---
